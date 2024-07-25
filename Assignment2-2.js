@@ -3,7 +3,7 @@ function Assign3(){
     const [count,setCount]= useState(0);
     useEffect(()=>{
         console.log("Once loaded....")
-    })
+    })    
     const btnUpdate=()=>{
         setCount(1);
     }
