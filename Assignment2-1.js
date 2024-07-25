@@ -6,7 +6,7 @@ function Assign2() {
 
     const inputValueChange = (event) => {
         console.log("Input value changed");
-        setReview(event.target.value);
+        setReview(event.target.value);  
     };
     
     const btnUpdate = () => {
