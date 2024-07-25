@@ -4,7 +4,7 @@ function Assignment2() {
     return (
         <div className='card' style={{margin:"20px"}}>
             <h1 style={{fontWeight:"bolder"}}>Product Details</h1>
-        <div style={{display:"flex",flexDirection:"row",gap:"0px"}}>
+        <div style={{display:"flex",flexDirection:"row",gap:"0px"}}> 
             <div>
                 <img src='dress.jpg' style={{width:"400px",height:"400px"}} alt="dress"></img>
             </div>
